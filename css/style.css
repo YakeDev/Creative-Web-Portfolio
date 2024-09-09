@@ -253,7 +253,7 @@ section.contact {
   /* mix-blend-mode: difference; */
 }
 
-scrol section.contact a {
+section.contact a {
   font-size: 100px;
   color: #000;
   font-weight: bold;
